@@ -11,7 +11,7 @@ Este directorio contiene el modelo BPMN completo utilizado en la memoria del Tra
 
 Para consultar el modelo con mayor nivel de detalle:
 
-1. Descargar el archivo `proceso_gestion_tfg.bpmn`.
+1. Descargar el archivo `ProcesoTFG.bpmn`.
 2. Abrirlo con una herramienta compatible con BPMN, como BPMN.io, Camunda Modeler, Bizagi Modeler o similar.
 3. Ampliar las zonas necesarias para revisar con detalle las actividades, decisiones y participantes del proceso.
 
