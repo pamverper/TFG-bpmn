@@ -5,7 +5,8 @@ Este directorio contiene el modelo BPMN completo utilizado en la memoria del Tra
 ## Archivos incluidos
 
 - `ProcesoTFG.bpmn`: archivo editable del modelo BPMN.
-- `ProcesoTFG.svg`: versión exportada del modelo para consulta rápida.
+- `ProcesoTFG.svg`: versión .svg exportada del modelo para consulta rápida.
+- `ProcesoTFG.pdf`: versión .pdf exportada del modelo para consulta rápida.
 
 ## Cómo visualizar el modelo
 
